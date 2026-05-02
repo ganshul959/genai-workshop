@@ -119,7 +119,7 @@ export function PreviewFrame() {
               </svg>
             </div>
             <h3 className="text-lg font-semibold text-gray-900 mb-2">
-              Welcome to UI Generator
+              Welcome to UI Builder
             </h3>
             <p className="text-sm text-gray-600 mb-3">
               Start building React components with AI assistance
